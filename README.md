@@ -11,3 +11,7 @@
 
 - Nest JS
 - Mongoose
+
+## Server Start Command
+
+npm run start
